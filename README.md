@@ -5,10 +5,9 @@ In this repository, you will be see the current day for the day, color-coded tim
 Users will have the ability to update and save their updates in the scheduler for that day. 
 
 ### Images of application:
-![image](https://github.com/dcho10/Work-Day-Scheduler/assets/153252185/28196b52-76de-4c24-a469-40b65cb3323a)
+![image](https://github.com/dcho10/Work-Day-Scheduler/assets/153252185/d772d652-690f-484e-b248-2a9eb4f77301)
 
-![image](https://github.com/dcho10/Work-Day-Scheduler/assets/153252185/f172ac7c-91b1-4d9c-a85d-f90102454f44)
-
+![image](https://github.com/dcho10/Work-Day-Scheduler/assets/153252185/f8877380-e082-4e9c-b53c-83ccc0be05b5)
 
 ### Links to the application:
 # Repository: https://github.com/dcho10/Work-Day-Scheduler
