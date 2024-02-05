@@ -10,5 +10,6 @@ Users will have the ability to update and save their updates in the scheduler fo
 ![image](https://github.com/dcho10/Work-Day-Scheduler/assets/153252185/f8877380-e082-4e9c-b53c-83ccc0be05b5)
 
 ### Links to the application:
+
 # Repository: https://github.com/dcho10/Work-Day-Scheduler
-# Live application: 
+# Live application: https://dcho10.github.io/Work-Day-Scheduler/
